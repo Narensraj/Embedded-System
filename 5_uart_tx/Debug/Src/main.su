@@ -1,0 +1,6 @@
+../Src/main.c:23:5:main	8	static
+../Src/main.c:36:6:led_blink	16	static
+../Src/main.c:45:6:uart_tx_init	8	static
+../Src/main.c:79:6:uart2_write	16	static
+../Src/main.c:89:13:uart_set_baudrate	24	static
+../Src/main.c:95:17:uart_bd	16	static
