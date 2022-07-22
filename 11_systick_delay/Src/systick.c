@@ -2,7 +2,7 @@
  * systick.c
  *
  *  Created on: Jul. 20, 2022
- *      Author: 15483
+ *      Author: Naren Subburaj
  */
 
 #include"stm32f4xx.h"
