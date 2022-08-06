@@ -1,0 +1,5 @@
+D:/Udmey - Embedded/Chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/adc.c:19:6:pa1_adc_interrupt_int	8	static
+../Src/adc.c:49:6:pa1_adc_int	4	static
+../Src/adc.c:72:6:start_conversion	4	static
+../Src/adc.c:81:10:adc_read	4	static
