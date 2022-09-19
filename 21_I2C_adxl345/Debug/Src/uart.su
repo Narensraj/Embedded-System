@@ -1,0 +1,10 @@
+D:/Embedded-System/chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/uart.c:32:5:__io_putchar	16	static
+../Src/uart.c:39:6:led_blink	16	static
+../Src/uart.c:47:6:dma1_stream6_init	24	static
+../Src/uart.c:103:6:uart2_write	16	static
+../Src/uart.c:113:6:uart2_read	4	static
+../Src/uart.c:123:13:uart_set_baudrate	24	static
+../Src/uart.c:129:17:uart_bd	16	static
+../Src/uart.c:136:6:uart_rxtx_init	8	static
+../Src/uart.c:178:6:uart_rxtx_interrupt_init	8	static
